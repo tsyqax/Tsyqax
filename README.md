@@ -8,5 +8,6 @@ And try effort and effort and web search.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segat6&show_icons=true&theme=radical)
 
 # Python is my frieind.
-But I want to learn more languages of code.
 ![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=3776AB)
+
+But I want to learn more languages of code.
