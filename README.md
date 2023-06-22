@@ -1,0 +1,2 @@
+# segat6
+readme!
