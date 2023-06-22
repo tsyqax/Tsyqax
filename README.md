@@ -1,6 +1,6 @@
 ### segat6
 Just a developer who are some crazy.
-And try effort and effort and web search.
+And try effort and effort and web search. 
 
 # Do you want some cheese?
 
