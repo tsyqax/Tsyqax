@@ -2,7 +2,7 @@
 Develop Something Privately.  
 Or Translate Something I wanted.
 
-### Projects (Translate)  
+## Projects (Translate)  
 - [ToDark](https://github.com/darkmoonight/Zest)
 - [Rain](https://github.com/darkmoonight/Rain)
 - [XBrowser](https://en.xbext.com/thanks/index.html)
@@ -15,6 +15,7 @@ Or Translate Something I wanted.
 ## Projects (Develop)
 - [RVC-Fast-Cover-NoUI](https://github.com/tsyqax/RVC-Fast-Cover-NoUI)
 etc is private! lol!
+
 
 ## Do you want some cheese? 
 ![GitHub Stat](https://github-readme-stats.vercel.app/api?username=tsyqax&show_icons=true&theme=radical)
