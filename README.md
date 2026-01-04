@@ -6,7 +6,7 @@ Or Translate Something I wanted.
 - [ToDark](https://github.com/darkmoonight/Zest)
 - [Rain](https://github.com/darkmoonight/Rain)
 - [XBrowser](https://en.xbext.com/thanks/index.html)
-- [Rimusic](https://github.com/fast4x/RiMusic)
+- [Rimusic](https://github.com/fast4x/RiMusic) -> [RiPlay](https://github.com/fast4x/RiPlay)
 - [Kreate](https://github.com/knighthat/Kreate)
 - [Super Retro Mega Wars](https://github.com/retrowars/retrowars)
 - [Noto](https://github.com/alialbaali/Noto)
