@@ -14,7 +14,7 @@ Or Translate Something I wanted.
 
 ## Projects (Develop)
 - [RVC-Fast-Cover-NoUI](https://github.com/tsyqax/RVC-Fast-Cover-NoUI)  
-etc is private! lol!
+etc is private! lol www
 
 
 ## Do you want some cheese? 
