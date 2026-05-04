@@ -13,7 +13,8 @@ Or Translate Something I wanted.
 - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis)
 
 ## Projects (Develop)
-- [RVC-Fast-Cover-NoUI](https://github.com/tsyqax/RVC-Fast-Cover-NoUI)  
+- [RVC-Fast-Cover-NoUI](https://github.com/tsyqax/RVC-Fast-Cover-NoUI)
+- [aliucord_plugins_tsq](https://github.com/tsyqax/aliucord_plugins_tsq)
 etc is private! lol www
 
 
