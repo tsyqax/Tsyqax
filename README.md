@@ -15,7 +15,7 @@ Or Translate Something I wanted.
 ## Projects (Develop)
 - [RVC-Fast-Cover-NoUI](https://github.com/tsyqax/RVC-Fast-Cover-NoUI)  
 - [aliucord_plugins_tsq](https://github.com/tsyqax/aliucord_plugins_tsq)  
-etc is private! lol www
+- etc is private!
 
 
 ## Do you want some cheese? 
