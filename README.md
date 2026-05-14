@@ -20,5 +20,6 @@ etc is private! lol www
 
 ## Do you want some cheese? 
 ![Counter](https://count.getloli.com/@jivjo?name=vifyr&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+*counter started when 2026-05-15*
 
 ## I like Python.
