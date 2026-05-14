@@ -19,7 +19,6 @@ etc is private! lol www
 
 
 ## Do you want some cheese? 
-![GitHub Stat](https://github-readme-stats.vercel.app/api?username=tsyqax&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsyqax&show_icons=true&theme=radical)
+![Counter](https://count.getloli.com/@jivjo?name=vifyr&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## I like Python.
