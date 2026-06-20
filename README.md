@@ -19,6 +19,6 @@ Or Translate Something I wanted.
 
 
 ## Do you want some cheese? 
-![Counter](https://count.getloli.com/@jivjo?name=vifyr&theme=miku&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto)  
+![Counter](https://count.getloli.com/@jivjo?name=vifyr&theme=miku&padding=7&offset=0&align=top&scale=0.33&pixelated=1&darkmode=auto)  
 
 ## I like Python.
