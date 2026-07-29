@@ -19,6 +19,9 @@ Or Translate Something I wanted.
 
 
 ## Do you want some cheese? 
+![GitHub Stat](https://github-stats-extended.vercel.app/api?username=tsyqax)  
+
 ![Counter](https://count.getloli.com/@jivjo?name=vifyr&theme=miku&padding=7&offset=0&align=top&scale=0.33&pixelated=1&darkmode=auto)  
+
 
 ## I like Python.
