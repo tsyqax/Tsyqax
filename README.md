@@ -1,4 +1,4 @@
-## Tsyqax  
+## TsyQax  
 Develop Something Privately.  
 Or Translate Something I wanted.
 
