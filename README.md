@@ -14,7 +14,8 @@ Or Translate Something I wanted.
 
 ## Projects (Develop)
 - [RVC-Fast-Cover-NoUI](https://github.com/tsyqax/RVC-Fast-Cover-NoUI)  
-- [aliucord_plugins_tsq](https://github.com/tsyqax/aliucord_plugins_tsq)  
+- [aliucord_plugins_tsq](https://github.com/tsyqax/aliucord_plugins_tsq)
+- [TEMP_microcord_plugins_tsq](https://github.com/tsyqax/TEMP_microcord_plugins_tsq)
 - etc is private!
 
 
